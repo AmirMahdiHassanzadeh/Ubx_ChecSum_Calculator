@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "_002_Ubx_ChecSum_Calculate_rstPrj"
+name = "_002_Ubx_CheckSum_Calculate_rstPrj"
 version = "0.1.0"
